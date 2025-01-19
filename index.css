@@ -56,6 +56,10 @@ body {
     background: #484B7A;
 }
 
+.icon{
+    pointer-events: none;
+}
+
 .weather-box {
     text-align: center;
     margin-top: 2rem;
